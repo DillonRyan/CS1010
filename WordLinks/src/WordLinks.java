@@ -1,6 +1,6 @@
 
 /* SELF ASSESSMENT 
-
+  
 1. readDictionary
 - I have the correct method definition [Mark out of 5:5]
 - Comment: had correct method definition
